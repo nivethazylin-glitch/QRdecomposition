@@ -65,8 +65,7 @@ QR_Decomposition(a)
 
 ## Output
 ```
-<img width="1411" height="857" alt="WhatsApp Image 2026-11-12 at 3 52 25 PM (1)" src="https://github.com/user-attachments/assets/e47aac6d-5c26-43c1-b79e-89c2690c965d" />
-
+<img width="1411" height="857" alt="WhatsApp Image 2026-11-12 at 3 52 25 PM (1)" src="https://github.com/user-attachments/assets/5abdeeeb-a986-4960-ba40-a7ff8c3e222f" />
 
 ```
 
